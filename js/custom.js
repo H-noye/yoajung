@@ -16,7 +16,7 @@ $(function () {
         slidesPerView: 1,
         spaceBetween: 120,
         autoplay: {
-             delay: 2000,
+            delay: 2000,
             disableOnInteraction: false,
         },
         breakpoints: {
