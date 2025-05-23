@@ -15,10 +15,10 @@ $(function () {
         loop: true,
         slidesPerView: 1,
         spaceBetween: 120,
-        // autoplay: {
-        //     delay: 2000,
-        //     disableOnInteraction: false,
-        // },
+        autoplay: {
+             delay: 2000,
+            disableOnInteraction: false,
+        },
         breakpoints: {
             540: {
                 slidesPerView: 2,
